@@ -25,7 +25,6 @@ An AI-powered job recommendation system that analyzes resumes, detects suitable 
 
 ### Frontend
 - React.js
-- Vite
 
 ---
 
@@ -101,7 +100,7 @@ POST /match-jobs
 
 ## Team Members
 
-Aman Pounikar
+Aman Pounikar ,
 Akshat Rathor
 
 GitHub:
